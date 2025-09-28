@@ -1,4 +1,12 @@
-# Data-Driven Product Management: Conducting a Market Analysis
+<a href="https://app.datacamp.com/learn/projects/1684">
+  <img 
+    src="https://github.com/user-attachments/assets/59236c06-c0ea-4a54-b0f5-d670889f5f31" 
+    alt="Descrição da imagem" 
+    width="1141" 
+    height="215" 
+  />
+</a>
+
 
 ## 📊 Project Overview
 
